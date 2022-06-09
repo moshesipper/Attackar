@@ -2,9 +2,7 @@
 Attackar: Attack of the Evolutionary Adversary
 
 Code accompanying the paper:
-Raz Lapid, Zvika Haramaty, Moshe Sipper, "Attackar: Attack of the Evolutionary Adversary", preprint, 2022.
-
-Papers are available through [Moshe Sipper's website](http://www.moshesipper.com/).
+[Raz Lapid, Zvika Haramaty, Moshe Sipper, "Attackar: Attack of the Evolutionary Adversary", preprint, 2022](https://drive.google.com/file/d/1RmPas0qMzjimeouCeLj7JuFewGat7iGE/view?usp=sharing).
 
 If you wish to cite this paper:
 ```
